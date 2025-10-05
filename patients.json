@@ -1,0 +1,114 @@
+[
+    {
+        "patientID": "pat_001",
+        "name": "John Doe",
+        "age": 30,
+        "condition": "Cold",
+        "appointments": [
+            {
+                "doctor": "Dr. Mohammed",
+                "time_slot": "2025-04-28 23:23:18.676079"
+            }
+        ]
+    },
+    {
+        "name": "Sarah Smith",
+        "age": 34,
+        "condition": "Back Pain",
+        "appointments": [
+            {
+                "doctor": "Dr. Aya",
+                "time_slot": "01:38:00"
+            }
+        ]
+    },
+    {
+        "name": "Sarah James",
+        "age": 35,
+        "condition": "High Fever",
+        "appointments": []
+    },
+    {
+        "name": "James Cary",
+        "age": 57,
+        "condition": "Back Pain",
+        "appointments": []
+    },
+    {
+        "name": "kamal",
+        "age": 19,
+        "condition": "cancer",
+        "appointments": [
+            {
+                "doctor": "Dr. Mohammed",
+                "time_slot": "09:44:00"
+            }
+        ]
+    },
+    {
+        "name": "ahmed",
+        "age": 23,
+        "condition": "fever",
+        "appointments": [
+            {
+                "doctor": "Dr. Mohammed",
+                "time_slot": "01:15:00"
+            }
+        ],
+        "risk_score": 2
+    },
+    {
+        "name": "ahmed",
+        "age": 23,
+        "condition": "cancer",
+        "appointments": [],
+        "risk_score": 3
+    },
+    {
+        "name": "ahmed",
+        "age": 23,
+        "condition": "diabetes",
+        "appointments": [],
+        "risk_score": 0
+    },
+    {
+        "name": "ahmed",
+        "age": 23,
+        "condition": "dying",
+        "appointments": [],
+        "risk_score": 2
+    },
+    {
+        "name": "ahmed",
+        "age": 23,
+        "condition": "dead",
+        "appointments": [],
+        "risk_score": 1
+    },
+    {
+        "name": "ahmed",
+        "age": 23,
+        "condition": "dead",
+        "appointments": [],
+        "risk_score": 1
+    },
+    {
+        "name": "ahmed",
+        "age": 23,
+        "condition": "critical condition",
+        "appointments": [],
+        "risk_score": 5
+    },
+    {
+        "name": "alaa",
+        "age": 32,
+        "condition": "cancer",
+        "appointments": [
+            {
+                "doctor": "Dr. Mohammed",
+                "time_slot": "00:58:00"
+            }
+        ],
+        "risk_score": 3
+    }
+]
